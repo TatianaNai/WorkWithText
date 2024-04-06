@@ -1,0 +1,14 @@
+C:\Users\Пользователь\Desktop\C\TMS\TextReader\TextReader\bin\Debug\net8.0\TextReader.exe
+C:\Users\Пользователь\Desktop\C\TMS\TextReader\TextReader\bin\Debug\net8.0\TextReader.deps.json
+C:\Users\Пользователь\Desktop\C\TMS\TextReader\TextReader\bin\Debug\net8.0\TextReader.runtimeconfig.json
+C:\Users\Пользователь\Desktop\C\TMS\TextReader\TextReader\bin\Debug\net8.0\TextReader.dll
+C:\Users\Пользователь\Desktop\C\TMS\TextReader\TextReader\bin\Debug\net8.0\TextReader.pdb
+C:\Users\Пользователь\Desktop\C\TMS\TextReader\TextReader\obj\Debug\net8.0\TextReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\C\TMS\TextReader\TextReader\obj\Debug\net8.0\TextReader.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\C\TMS\TextReader\TextReader\obj\Debug\net8.0\TextReader.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\C\TMS\TextReader\TextReader\obj\Debug\net8.0\TextReader.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\C\TMS\TextReader\TextReader\obj\Debug\net8.0\TextReader.dll
+C:\Users\Пользователь\Desktop\C\TMS\TextReader\TextReader\obj\Debug\net8.0\refint\TextReader.dll
+C:\Users\Пользователь\Desktop\C\TMS\TextReader\TextReader\obj\Debug\net8.0\TextReader.pdb
+C:\Users\Пользователь\Desktop\C\TMS\TextReader\TextReader\obj\Debug\net8.0\TextReader.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\C\TMS\TextReader\TextReader\obj\Debug\net8.0\ref\TextReader.dll
